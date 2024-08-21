@@ -5,3 +5,6 @@ This simple console application challenges players to guess a randomly generated
 
 2. Calculator
 A simple Java-based calculator that performs basic arithmetic operations like addition, subtraction, multiplication, division and supports for multiple calculations in a single session.
+
+3. Temperature Converter Project
+This Java-based Temperature Converter allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin. The program takes user input for the temperature value and the desired target unit, then accurately performs the conversion using dedicated methods for each temperature scale. This project was developed as part of an internship with CodeVisionary, focusing on reinforcing Java fundamentals such as input handling, method implementation, and conditionals.
